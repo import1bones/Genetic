@@ -1,0 +1,9 @@
+﻿  ANN.cpp
+C:\Users\13519\Documents\GitHub\Genetic\Project1\Project1\ANN.cpp(24,22): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\13519\Documents\GitHub\Genetic\Project1\Project1\ANN.cpp(34,32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\13519\Documents\GitHub\Genetic\Project1\Project1\ANN.cpp(83,8): warning C4102: “death”: 未引用的标签
+  main.cpp
+  SimpleTest.cpp
+  正在生成代码...
+C:\Users\13519\Documents\GitHub\Genetic\Project1\Project1\SimpleTest.cpp(159): warning C4715: “SimpleTest::GetInformation”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\13519\Documents\GitHub\Genetic\Project1\Debug\Genetic.exe
